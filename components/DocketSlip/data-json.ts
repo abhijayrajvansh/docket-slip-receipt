@@ -35,7 +35,7 @@ const dataJson: LogisticsReceiptProps = {
   },
   charges: {
     grandTotal: "",
-  }
+  },
 };
 
 export default dataJson;
